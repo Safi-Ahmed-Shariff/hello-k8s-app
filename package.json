@@ -1,0 +1,11 @@
+{
+    "name": "hello-k8s-app",
+    "version": "1.0.0",
+    "description": "Simple Hello Kubernetes application",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {}
+  }
+  
